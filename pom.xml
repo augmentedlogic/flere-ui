@@ -6,6 +6,7 @@
   <version>0.1.1</version>
   <name>flere-ui</name>
   <description>helper to render html with chunktemplate</description>
+  <url>https://developer.augmentedlogic.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
